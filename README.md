@@ -56,6 +56,9 @@ Para el versionado del proyecto decidimos utilizar la herramienta BitBucket. Est
 ## Autores ✒️
 
 * [*Diaz Patricio**](https://github.com/patriciodanielDiaz)
+* [*Falabella Agustin**](https://github.com/AgustinFalabella)
+* [*Sandoval Juan Marcos**](https://github.com/juanmarcossandoval)
+* [*Ruiz Diaz **](https://github.com/patriciodanielDiaz)
 
 Hecho con ❤️ por el equipo RestTeam (Equipo 48) de Alkemy.
 
