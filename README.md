@@ -60,11 +60,6 @@ Para el versionado del proyecto decidimos utilizar la herramienta BitBucket. Est
 * [*Sandoval Juan Marcos**](https://github.com/juanmarcossandoval)
 * [*Ruiz Diaz **](https://github.com/patriciodanielDiaz)
 
-Hecho con ❤️ por el equipo RestTeam (Equipo 48) de Alkemy.
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
