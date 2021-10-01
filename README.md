@@ -16,9 +16,9 @@ El presente es un proyecto para la fundación “Somos Más” ....
 
 **Los campos [*ID*] deben ser un numero del 1 al 10.**
 
-**La contraseña es la misma para todos los usuarios: qwerty**
+**La contraseña es la misma para todos los usuarios: 
 
-**Por ejemplo**, para acceder con un usuario administrador, debemos usar alguno de los correos, en este caso usaremos "adminUser4@email.com" cuya contraseña es "qwerty".
+**Por ejemplo**, para acceder con un usuario administrador, debemos usar alguno de los correos, en este caso usaremos xxxx" cuya contraseña es "xxxx".
 luego debemos hacer una petición POST a la ruta "/auth/login" de la API y se nos será asignado un JWT para poder autenticarnos.
 
 ## Documentación: 📚📖
