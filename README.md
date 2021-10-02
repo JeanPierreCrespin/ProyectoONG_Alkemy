@@ -45,7 +45,7 @@ Está API utiliza los siguientes frameworks, librerias y herramientas de desarro
 * [*Falabella Agustin**](https://github.com/AgustinFalabella)
 * [*Sandoval Juan Marcos**](https://github.com/juanmarcossandoval)
 * [*Ruiz Diaz**](https://github.com/enzoruizdiaz)
-* [*Crespi Pierre**](https://github.com/Jpierre98)
+* [*Crespin Pierre**](https://github.com/Jpierre98)
 
 
 ## Agradecimiento 🎁
